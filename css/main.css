@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+canvas {
+    background: #000;
+    display: block;
+    margin: 0 auto;
+}
+input {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-size: 30px;
+    padding: 10px;
+    border: 0;
+    color: #FFFFFF;
+    border-radius: 10px;
+}
+.add {
+    background: #FF0000;
+}
+.inf {
+    background: #0000FF;
+}
+.res {
+    background: #00FF00;
+}
+#edit_area {
+    text-align: center;
+}
